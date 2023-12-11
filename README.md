@@ -26,7 +26,7 @@ $3.$ $Target$ $Domain$ $Adaptation$
 
 $[방향성]$
 -
-$<Meta$-$Model>$
+<$Meta$-$Model$>
 
 $1.$ $y_{S_i} = F(X_{T_i})$
 
