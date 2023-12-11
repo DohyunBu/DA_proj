@@ -31,3 +31,4 @@ $"Meta-Model"$
 $1.$ $y_{S_i} = F(X_{T_i})$
 
 $2.$ $X_{S_i} = F(X_{T_i})$
+- $KD$ $Loss$ + $NS$ $Loss$
